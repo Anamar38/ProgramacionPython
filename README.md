@@ -40,4 +40,5 @@ Emplear el siguiente manual de instalación [link](https://gdelgador.github.io/P
 - Guía de estilo escritura python: [PEP 8](https://www.python.org/dev/peps/pep-0008/?fbclid=IwAR1nA1UklLNW22-9t32Clybzyczj_i6EMA1fJdk9TwUe-OXLSriPQH9xKhE)
 - [Libros Python](https://drive.google.com/drive/folders/1u_dg31pkLasj2H3L4VO2QUNFnYpA9bn1?usp=sharing) 
 - [Documentación Numpy Style](https://numpydoc.readthedocs.io/en/latest/format.html)
-- Intro [Jupyter Notebook](https://www.youtube.com/watch?v=CwbMaSkKDZg&ab_channel=RafaGonzalezGouveia)
+- [Intro Jupyter Notebook](https://www.youtube.com/watch?v=CwbMaSkKDZg&ab_channel=RafaGonzalezGouveia)
+- [Guia Trabajando con Git](https://www.freecodecamp.org/espanol/news/guia-para-principiantes-de-git-y-github/)
